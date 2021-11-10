@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
 
-
-pip install streamlit
 
 
 # In[2]:
@@ -21,10 +18,6 @@ import streamlit as st
 from PIL import Image
 
 
-# In[3]:
-
-
-pip freeze > requirements.txt
 
 
 # In[4]:
